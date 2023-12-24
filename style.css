@@ -1,0 +1,21 @@
+#input-section {
+    padding-left: 500px;
+    padding-top: 200px;
+
+    }
+.item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    padding-left: 500px;
+    }
+.item input {
+    margin-right: 10px;
+    }
+.item button {
+    padding: 5px 10px;
+    background-color: #ff6347;
+    color: white;
+    border: none;
+    cursor: pointer;
+    }
